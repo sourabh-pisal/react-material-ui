@@ -1,0 +1,7 @@
+{
+  "short_name": "React MUI App",
+  "name": "React MUI integration",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone"
+}
